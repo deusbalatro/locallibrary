@@ -5,6 +5,7 @@ This project is created for learning purposes and serves as a simple dynamic web
 
 ### Features:
 - Authentication system based on Django's framework.
+- Automated mail system.
 - Staff members can perform CRUD operations on books, authors, and copies, as well as modify return dates of books.
 - Users and staff members have different access levels and corresponding pages.
 - Users can view the availability status of books in the library, helping them decide whether to borrow a book.
