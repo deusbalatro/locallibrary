@@ -1,5 +1,5 @@
 ## Local Library Web Application
-Hi! The project is under the [master branch](https://github.com/deusbalatro/locallibrary/tree/master)
+Hi! 
 
 This project is created for learning purposes and serves as a simple dynamic web application for an imaginary local library. Built using Django, it focuses on back-end and database logic, with minimal emphasis on front-end styling.
 
