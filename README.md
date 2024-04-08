@@ -12,6 +12,7 @@ This project is created for learning purposes and serves as a simple dynamic web
 - Users have the ability to view a list of books they have borrowed.
 - Staff members have access to a comprehensive list of borrowed books, including those borrowed by other members, in addition to being able to view the books they have borrowed themselves.
 - And the other features such as detailed author information, providing users with comprehensive details about each author, as well as book details.
+- Asynchronous pagination.
 - And more.
 
 ### Technology Stack:
